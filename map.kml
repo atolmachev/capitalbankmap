@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+    <name>Capital Bank Kazakhstan</name>
+    <description><![CDATA[Отделения и банкоматы Capital Bank Kazakhstan]]></description>
+    <Folder>
+      <name>Банкоматы и офисы </name>
+      <Placemark>
+        <name>Алматинский филиал </name>
+        <description><![CDATA[АО "Capital Bank Kazakhstan"<br>Адрес: Алматы, ул. Фурманова,  д. 103<br>Режим работы: <br>пн - пт 09:00 - 17:00<br>сб, вс выходной]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+        </ExtendedData>
+        <Point>
+          <coordinates>76.9459301,43.2576901,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Головной офис</name>
+        <description><![CDATA[АО "Capital Bank Kazakhstan"<br>Адрес: Алматы, ул. Фурманова, д. 187, лит. Б Режим работы: <br>пн - пт 09:00 - 17:00<br>сб, вс выходной]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+        </ExtendedData>
+        <Point>
+          <coordinates>76.9473302,43.2405369,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Банкомат 00001</name>
+        <description><![CDATA[Алматинский филиал АО "Capital Bank Kazakhstan"<br>Адрес: Алматы, ул. Фурманова, д. 103 <br>Режим работы: круглосуточно <br>Режим доступа: свободный<br>Функции: <br> - снятие наличных<br> - прием наличных<br> - запрос баланс<br> - мини-выписка<br> - оплата услуг<br> - смена ПИН-кода]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+        </ExtendedData>
+        <Point>
+          <coordinates>76.9460428,43.2575592,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Банкомат 00002</name>
+        <description><![CDATA[Головной офис АО "Capital Bank Kazakhstan"<br>Адрес: Алматы, ул. Фурманова, д. 187, лит. Б<br> Режим работы: круглосуточно <br>Режим доступа: свободный<br>Функции: <br> - снятие наличных<br> - прием наличных<br> - запрос баланс<br> - мини-выписка<br> - оплата услуг<br> - смена ПИН-кода]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+        </ExtendedData>
+        <Point>
+          <coordinates>76.9475568,43.2405105,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id='icon-503-62AF44-normal'>
+      <IconStyle>
+        <color>ff44AF62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+        </hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id='icon-503-62AF44-highlight'>
+      <IconStyle>
+        <color>ff44AF62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+        </hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id='icon-503-62AF44'>
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id='icon-503-7C3592-normal'>
+      <IconStyle>
+        <color>ff92357C</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+        </hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id='icon-503-7C3592-highlight'>
+      <IconStyle>
+        <color>ff92357C</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+        </hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id='icon-503-7C3592'>
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>
