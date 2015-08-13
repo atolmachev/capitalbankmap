@@ -51,7 +51,7 @@
         <color>ff44AF62</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
@@ -65,7 +65,7 @@
         <color>ff44AF62</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
@@ -89,7 +89,7 @@
         <color>ff92357C</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
@@ -103,7 +103,7 @@
         <color>ff92357C</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
