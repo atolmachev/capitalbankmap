@@ -50,7 +50,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.png</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
@@ -63,7 +63,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.png</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
@@ -86,7 +86,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.png</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
@@ -99,7 +99,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
+          <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.png</href>
         </Icon>
         <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
         </hotSpot>
