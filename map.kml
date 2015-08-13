@@ -48,7 +48,6 @@
     </Folder>
     <Style id='icon-503-62AF44-normal'>
       <IconStyle>
-        <color>ff44AF62</color>
         <scale>1.1</scale>
         <Icon>
           <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
@@ -62,7 +61,6 @@
     </Style>
     <Style id='icon-503-62AF44-highlight'>
       <IconStyle>
-        <color>ff44AF62</color>
         <scale>1.1</scale>
         <Icon>
           <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
@@ -86,7 +84,6 @@
     </StyleMap>
     <Style id='icon-503-7C3592-normal'>
       <IconStyle>
-        <color>ff92357C</color>
         <scale>1.1</scale>
         <Icon>
           <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
@@ -100,7 +97,6 @@
     </Style>
     <Style id='icon-503-7C3592-highlight'>
       <IconStyle>
-        <color>ff92357C</color>
         <scale>1.1</scale>
         <Icon>
           <href>https://rawgit.com/atolmachev/capitalbankmap/master/pin-office.svg</href>
